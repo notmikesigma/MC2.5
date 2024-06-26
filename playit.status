@@ -1,150 +1,84 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719364213537 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719364459998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364216638 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364463078 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364219717 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364467226 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364222759 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364470265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364225811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364473305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364228857 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364476547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364231912 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364479832 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364234964 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364482888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364238171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364486107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364241237 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364489446 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364244278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364492923 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364247332 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364496002 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364250411 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364499046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364253470 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719364502085 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364256564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364259624 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364262679 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364265775 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364268836 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364271892 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364274988 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364278094 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364281153 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364284466 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
-thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719364287523 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:19132 (minecraft-bedrock)
+networks-fixtures.gl.at.ply.gg:1628 => 127.0.0.1:1628 (minecraft-bedrock)
 thu-parker.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
